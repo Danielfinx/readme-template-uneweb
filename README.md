@@ -46,8 +46,8 @@ To get a local copy up and running follow these simple example steps.
 👤 **Daniel Enrique Santander Finol**
 
 - GitHub: [@Danielfinx](https://github.com/Danielfinx)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/daniel-santander-ab260b228/)
 - Twitter: [@Daniel](#)
-- LinkedIn: [LinkedIn](#)
 
 👤 **Author2**
 
